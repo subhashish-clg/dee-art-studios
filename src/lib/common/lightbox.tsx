@@ -31,10 +31,10 @@ export default function Gallery() {
         close={() => setOpen(false)}
         slides={[
           {
-            src: "https://res.cloudinary.com/daoju0r3c/image/upload/v1746208914/IMG_9413_syqmwe.jpg",
+            src: "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673740/qt0xjb34desamifjtnfb.jpg",
           },
           {
-            src: "https://res.cloudinary.com/daoju0r3c/image/upload/v1746208913/IMG_9415_d22qmz.jpg",
+            src: "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673740/jzj0dflqo6d0gxfdtjri.jpg",
           },
         ]}
       />

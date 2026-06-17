@@ -4,14 +4,14 @@ const sliderItems = [
   {
     title: "Piercing Collection",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/v1746212647/Use_driulz.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673744/pfvqdt6vmkhnffkqjptr.jpg",
     paragraph:
       "Piercing Collection, where artistry meets precision! I believe that body art is a powerful form of self-expression. Each piercing is not just a procedure; it’s an opportunity to enhance your individuality and celebrate your unique style.",
   },
   {
     title: "Diverse Selection",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/v1746287065/3rd_lobe_fkzthm.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673740/ml1daxy7ldnxetkt3zlo.jpg",
 
     paragraph:
       "From classic ear piercings to bold body modifications, my collection features a wide range of styles to match every personality. Whether you prefer minimalist elegance or vibrant statement pieces, there’s something here for you.",
@@ -19,35 +19,35 @@ const sliderItems = [
   {
     title: "Personalized Experience",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/t_Piercings/v1745675530/Tragus_converted_u6mz9x.png",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673753/tiqdjt8hrdkv0ebitzz8.png",
     paragraph:
       "We pride on providing a personalized approach to every client. During your consultation, we’ll discuss your ideas, preferences, and any concerns you may have, ensuring that you feel informed and excited about your choices.",
   },
   {
     title: "Top-Quality Jewelry",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/v1746286861/Eyebrow_hikjzm.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673749/iygieiwx9ocmhpukfnwe.jpg",
     paragraph:
       "Your safety and comfort are my top priorities. We use only the finest materials, from implant grade titanium, to ethically sourced gemstones, to ensure that your jewelry not only looks beautiful but is also safe for your skin.",
   },
   {
     title: "Custom Creations",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/v1746286961/Helix_and_tragus_rlfavi.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673741/e5exqtdlugsgyqikbfal.jpg",
     paragraph:
       "We offer custom piercing designs tailored to your vision. If you have a specific idea in mind, let’s collaborate to create a piece that reflects your personal style and story.",
   },
   {
     title: "Aftercare Support",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/v1746118048/Card_4_image_2_combine_hypg6o.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673749/g0nghs4avksnevwymofm.jpg",
     paragraph:
       "After your piercing, we provide comprehensive aftercare instructions and ongoing support, ensuring that your healing process is smooth and successful.",
   },
   {
     title: "Premium Piercing Jewelry",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/v1745675528/Spider_bites_fx93l2.png",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673750/ieuiflvf7uofv7mxfdfp.png",
     paragraph:
       "Implant-grade piercing jewelry from top brands and local makers, including 14k–18k gold options.",
   },
