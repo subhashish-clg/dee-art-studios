@@ -2,7 +2,7 @@ const slideItems = [
   {
     // image: "https://res.cloudinary.com/daoju0r3c/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,b_rgb:262c35/v1745600296/IMG_0843_nptqzl.png",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/c_crop,w_1254,h_1254,x_0,y_3,ar_1:1/v1746115989/IMG_2194_caltsu.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673731/zf1htdi5njiszocwzjnk.jpg",
     title: "Bond of <i class='underline'>Unity</i>",
     paragraph: () => (
       <>
@@ -15,7 +15,7 @@ const slideItems = [
   },
   {
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/c_crop,ar_1:1/v1746115989/IMG_1393_xpf3a9.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673732/llreyhy7hhperidzz6vj.jpg",
     title: "<i class='underline'>Spirit</i> of the Lion",
     paragraph: () => (
       <>
@@ -29,7 +29,7 @@ const slideItems = [
   },
   {
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/c_crop,ar_1:1/v1746115989/IMG_2524_dgjbm1.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673732/s0x8npewwyfksy7zudcy.jpg",
     title: "Call of the <i class='underline'>Wild</i>",
     paragraph: () => (
       <>
@@ -43,7 +43,7 @@ const slideItems = [
   },
   {
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/c_crop,ar_1:1/v1746115988/IMG_2196_j3wnkm.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673732/yocv1qf0rmzqd3onbizr.jpg",
     title: "Eternal <i class='underline'>Bond</i>",
     paragraph: () => (
       <>
@@ -54,7 +54,7 @@ const slideItems = [
   },
   {
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/c_crop,w_747,h_747,x_76,y_481,ar_1:1/v1746115989/IMG_2197_mu2rw7.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781679885/seyr4ctdvziaaq6ryuie.jpg",
     title: "Healing <i class='underline'>Heart</i>",
     paragraph: () => (
       <>

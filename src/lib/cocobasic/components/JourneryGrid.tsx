@@ -39,7 +39,7 @@ const gridItems = [
   {
     variant: "right",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/c_fill,w_720,h_660/v1746095080/Card_2_mk9h1a.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673756/cvlnqk8lbt7bk8pprdio.jpg",
     tag: "Art Gallery",
     title: () => (
       <>
@@ -68,7 +68,7 @@ const gridItems = [
   {
     variant: "left",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/c_pad,b_gen_fill,w_720,h_660/v1745597952/IMG_2524_uxghat.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781676828/itltwnxqjbqtu0ckitdp.jpg",
     tag: "Tattoo Art & Sketches",
     subtitle:
       "A spontaneous decision led me to an apprenticeship at FX INC, where I built my tattoo skills from scratch and learned the value of trust and persistence.",
@@ -101,7 +101,7 @@ const gridItems = [
   {
     variant: "right",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/v1746118142/Card_4_image_1__combine__heic_wzu9vd.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673740/boj4pmbsofyoscd3g7qq.jpg",
     tag: "Piercing",
     subtitle:
       "I unexpectedly stepped into piercing, discovering a new creative outlet where each piece became part of someone’s self-expression.",
@@ -127,7 +127,7 @@ const gridItems = [
   {
     variant: "left",
     image:
-      "https://res.cloudinary.com/daoju0r3c/image/upload/v1746217314/Card_5_gwthlb.jpg",
+      "https://res.cloudinary.com/dfyutghzy/image/upload/v1781673744/ucurab5dt3fsnt2zeeea.jpg",
     tag: "Onwards and upwards",
     subtitle:
       "Five years in, I embrace the uncertainty, moving forward with gratitude, passion, and a commitment to constant growth.",
